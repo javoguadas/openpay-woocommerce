@@ -3,4 +3,4 @@
 ### WooCommerce (5.1) Plugin for Openpay API services 
 For more information about this module go to: 
 
-http://www.openpay.mx/docs/plugins/woocommerce.html
+http://www.openpay.mx/docs/woocommerce.html
